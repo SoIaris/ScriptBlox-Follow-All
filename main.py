@@ -1,3 +1,5 @@
+#ashly.luv.you on discord
+
 from colorama import Fore
 import requests
 
